@@ -1,0 +1,39 @@
+
+body{
+    
+    font-size: larger;
+    background-color: #E8F9FD;
+    
+}
+
+.form-container {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    border: 2px solid black;
+    border-radius: 35px;
+    padding: 10px;
+    margin-left: 200px;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: #F1F6F9;
+}
+
+.column {
+    width: 50%; 
+
+    
+}
+
+.button-container {
+    display: flex;
+    margin-left: 800px;
+    
+}
+
+#column1{
+    width: 1000px;
+    margin-left: 100px;
+}
+
