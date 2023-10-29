@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@100;500;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+table{
+    /* margin-left: 5px !important; */
+    margin-left: 0px !important;
+}
+
+body{
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Work Sans', sans-serif;
+    /* background-color: #D8D9DA; */
+}
+.container{
+    margin-left: 5px !important;
+}
+input{
+    width: 600px !important;
+}
+.invoice-btns{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.invoice-btn{
+    padding: 3px 9px;
+    color: var(--dark-color);
+    font-family:inherit ;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+table{
+    font-size: 14px;
+}
+h2{
+     font-family: 'Poppins', sans-serif;
+}
+
+#registernew{
+    border:1px solid groove;
+    float: right;
+    background-color: #395464;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    margin-top: -40px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+/* #right{
+    float: right;
+    margin-top: -32px;
+    margin-right: 700px;
+} */
