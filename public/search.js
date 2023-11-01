@@ -19,4 +19,5 @@ function myFunction() {
       }
     }
   }
-  
+
+module.exports = myFunction;

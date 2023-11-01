@@ -1,0 +1,22 @@
+{
+  "name": "cicd2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "mocha test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "Edwin, Hamlet, Calvin, Esther, Demetira",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsdom": "^22.1.0",
+    "nodemon": "^3.0.1"
+  }
+}
